@@ -6,3 +6,4 @@ Cold and dry, but everything is my favorite color.
 There are no coffee shops.
 
 Wolfman says HI!
+Now Iïm changing the last line of the file.
